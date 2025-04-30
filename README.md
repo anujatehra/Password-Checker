@@ -41,8 +41,10 @@ Note:
 
 -Do not use this script to test passwords that do not belong to you.
 
+
 License:
 This project is licensed under the MIT License.
+
 
 Author:
 Anuja Tehra
