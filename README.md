@@ -18,8 +18,7 @@ This is a basic password strength checker written in Python. It allows users to 
 ## Requirements:
 - Python 3.x
 - No external libraries required (uses built-in `re` module)
-
-> ✅ Compatible with Windows, Linux, and macOS
+- Compatible with Windows, Linux, and macOS
 
 ## How to Use:
 1. Clone or download this repository.
