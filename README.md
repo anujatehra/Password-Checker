@@ -33,6 +33,7 @@ This is a basic password strength checker written in Python. It allows users to 
 -Enter the password you want to evaluate.
 
 -The program will analyze your input and display the password strength along with improvement suggestions if needed.
+
 -----------------------------------------
 
 Note:
