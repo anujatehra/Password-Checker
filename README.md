@@ -36,7 +36,7 @@ This is a basic password strength checker written in Python. It allows users to 
 
 
 
-##Note:
+## Note:
 -This script does not connect to any external services or databases.
 
 -It is a standalone tool for local password evaluation.
@@ -44,9 +44,9 @@ This is a basic password strength checker written in Python. It allows users to 
 -Do not use this script to test passwords that do not belong to you.
 
 
-##License:
+## License:
 This project is licensed under the MIT License.
 
 
-##Author:
+## Author:
 Anuja Tehra
