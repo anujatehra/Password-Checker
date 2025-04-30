@@ -33,6 +33,7 @@ This is a basic password strength checker written in Python. It allows users to 
 -Enter the password you want to evaluate.
 
 -The program will analyze your input and display the password strength along with improvement suggestions if needed.
+-----------------------------------------
 
 Note:
 -This script does not connect to any external services or databases.
@@ -41,10 +42,10 @@ Note:
 
 -Do not use this script to test passwords that do not belong to you.
 
-
+-----------
 License:
 This project is licensed under the MIT License.
 
-
+------------
 Author:
 Anuja Tehra
